@@ -33,7 +33,7 @@ public class StartConsol {
 
         Sporgsmaal sporgsmaal = new Sporgsmaal();
 
-        System.out.println(sporgsmaal.getSporgsmaal(0));
+        System.out.println(sporgsmaal.getSporgsmaal(0, 0));
 
 
     }
